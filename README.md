@@ -13,7 +13,7 @@ Copy and paste the URI below into your browser's address bar:
 - **Mobile First:** Designed with a sticky header and scrollable toolbar for easy thumb access.
 - **Zero Storage:** Privacy-focused; data is never saved to a server or local storage.
 
-## 🛠️ Usage
+## 🛠️ Usage
 1. Open the URI.
 2. Type or paste your content.
 3. Highlight text and use the toolbar to format.
